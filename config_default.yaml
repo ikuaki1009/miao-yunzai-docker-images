@@ -1,0 +1,15 @@
+# 如需自定义，复制此文件为 config.yaml 进行配置
+# 更新配置后需要重启
+
+# 浏览器类型，默认为 chromium，必须为 chromium/firefox/webkit 其中一个
+browserType: chromium
+
+# 浏览器的文件路径，可填写系统的 edge/chromium/firefox 路径，例如（根据实际情况调整）：
+# executablePath: /usr/bin/chromium-browser
+executablePath:
+
+# headless
+headless: true
+
+# 额外传递给浏览器的启动参数，注意 args 的 -- 前缀
+args:

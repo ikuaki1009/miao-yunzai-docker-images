@@ -1,0 +1,14 @@
+{
+  "name": "miao-yunzai-renderer-playwright",
+  "version": "0.0.1",
+  "author": "ikuaki1009",
+  "description": "Miao-Yunzai 的 playwright 渲染后端",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "playwright": "^1.32.3"
+  },
+  "pnpm": {
+    "patchedDependencies": {}
+  }
+}
